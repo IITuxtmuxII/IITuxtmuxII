@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @IITuxtmuxII
 - 👀 I’m interested in Usenet
-- 🌱 I’m currently learning PHP, Laravel, alpine, VueJS
+- 🌱 I’m currently learning PHP, Laravel, alpine, TailwindCSS
